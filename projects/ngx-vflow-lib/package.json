@@ -2,8 +2,8 @@
   "name": "ngx-vflow",
   "version": "1.16.4.1",
   "license": "MIT",
-  "homepage": "https://etalytics.com",
-  "author": "",
+  "homepage": "https://www.ngx-vflow.org/",
+  "author": "Artem Mangilev",
   "keywords": [
     "angular",
     "node-based UI",
